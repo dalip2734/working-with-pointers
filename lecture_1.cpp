@@ -9,6 +9,8 @@ int main()
     cout<<p<<endl;  // address of a
     cout<<a<<endl;  // 6
     *p = 5;   // value at address which is stored in p
+    p++;
     cout<<*p<<endl;  // 5
+    cout<<p<<endl;
 
 }
