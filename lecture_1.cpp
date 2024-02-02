@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    
     int a = 6;
     int *p;  // declaring a poitner variable p of type integer
     p = &a;   // p = address of a 
