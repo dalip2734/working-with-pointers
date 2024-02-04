@@ -12,7 +12,7 @@ int main()
     char *v;
     v = &c;
 
-    // Pointer arithmatic
+    // Pointer arithmetic
 
     cout << "Address of p =" << p << endl;
     cout << "size if integer is = " << sizeof(int) << endl;
